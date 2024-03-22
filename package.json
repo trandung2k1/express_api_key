@@ -1,0 +1,21 @@
+{
+    "name": "express_api_key",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "apicache": "^1.6.3",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.1",
+        "redis": "^4.6.13"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.0"
+    }
+}
